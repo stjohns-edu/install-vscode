@@ -1,4 +1,4 @@
-# install-vscode
+# Install VCode on Ubuntu
 
 ```
 wget -qO- https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > packages.microsoft.gpg
